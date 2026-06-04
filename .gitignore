@@ -1,3 +1,16 @@
+# Next.js frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*
+frontend/.vercel/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+
+# Python environment
 venv/
 __pycache__/
 *.pyc

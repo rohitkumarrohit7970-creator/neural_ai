@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+trae-debug-log-*
+debug-*.md
+.dbg/
+assignment.txt
+list_models.py
+app_prototype.py.bak
